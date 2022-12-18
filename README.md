@@ -2,5 +2,4 @@
 # contact
 # chat
 # document 
-# https://KristinaSuprun.github.io/rsschool-cv/cv
-# https://TinaSuper.github.io/rsschool-cv/
+#https://github.com/TinaSuper/rsschool-cv/tree/rsschool-cv-html
